@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shabnamsilawat
 - 👀 I’m interested in coding and learning new things.
-- 🌱 I’m currently learning MongoDB
+- 🌱 I’m currently learning Java
 - 📫 How to reach me linkedin: Shabnam Silawat
 - ⚡ Fun fact: I sketch, read books and write poetries. 
 
